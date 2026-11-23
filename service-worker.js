@@ -1,4 +1,4 @@
-const CACHE_NAME = 'mind-your-words-shell-v1';
+const CACHE_NAME = 'mind-your-words-shell-v2';
 const APP_SHELL = [
   './',
   './index.html',
